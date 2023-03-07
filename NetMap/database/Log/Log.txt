@@ -1,0 +1,147 @@
+  [*] [08.24.2022 09:01:32 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 09:02:10 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 09:02:15 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [WARNING] [08.24.2022 09:04:04 Çarşamba] [LOGIN] Username =>  [n] Attempted to Login and failed.
+  [WARNING] [08.24.2022 09:04:10 Çarşamba] [ADMIN] Strange username =>  [c] Attempted to Login and failed.
+  [WARNING] [08.24.2022 09:04:13 Çarşamba] [ADMIN] Strange username =>  [cfff] Attempted to Login and failed.
+  [*] [08.24.2022 09:04:27 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 09:04:40 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:g.g.gs.dds/ | label5 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 09:05:11 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:www.goo.gle.com/ | label5 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 09:36:44 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:38:05 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:39:06 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:39:33 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:10.1.238.92/16 | 10.1.1.1/16 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 10:43:08 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:45:27 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:47:41 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 10:47:42 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.24.2022 10:49:00 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:52:36 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:52:56 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:1.1.1.1/16 | 1.1.1.1/16 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 10:53:28 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:1.1.1.1/16 | 1.1.1.1/16 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 10:57:18 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 10:57:19 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.24.2022 10:57:22 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 10:57:33 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:ggdgd | TABLE:asdasd]
+  [*] [08.24.2022 10:58:52 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:35:48 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:40:09 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:42:21 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:44:05 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:48:18 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:56:38 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 11:58:05 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 12:00:59 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 12:20:51 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 12:23:27 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 12:28:56 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 12:36:00 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 12:36:01 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.24.2022 12:36:48 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 13:04:00 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 13:04:01 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.24.2022 14:00:59 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 14:02:17 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 14:02:52 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 14:03:07 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [Added User] Fullname:[NAME] Username :[username]
+  [*] [08.24.2022 14:03:17 Çarşamba] [LOGIN] Fullname :[NAME] User :[username]
+  [*] [08.24.2022 14:04:01 Çarşamba] [CONSOLE] Fullname :[NAME] User :[username] [ACTION] => CONSOLE => [IP:1.1.1.1/24 | 123.123.123.1/24 | ] [DB:database1 | TABLE:table1]
+  [*] [08.24.2022 14:11:08 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:15:06 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:16:35 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:18:41 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:26:10 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:27:01 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:27:45 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:34:53 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:35:41 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:35:50 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:portal.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.24.2022 14:38:35 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:38:46 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 14:53:38 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:53:43 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.2.34.4/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 14:58:21 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 14:58:31 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:00:16 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 15:00:17 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [WARNING] [08.24.2022 15:00:21 Çarşamba] [LOGIN] Username =>  [alper] Attempted to Login and failed.
+  [*] [08.24.2022 15:00:26 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:00:33 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:01:46 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:01:52 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:2.2.2.2/24 | 2.2.2.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:03:22 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:03:28 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:4.56.65.5/24 | 4.56.65.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:06:35 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:06:40 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/16 | 1.1.1.1/16 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:08:10 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:08:17 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:23:29 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.24.2022 15:23:33 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.24.2022 15:28:02 Çarşamba] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.24.2022 15:28:03 Çarşamba] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [WARNING] [08.24.2022 15:29:06 Çarşamba] [LOGIN] Username =>  [1"OR"1] Attempted to Login and failed.
+  [WARNING] [08.24.2022 15:29:51 Çarşamba] [LOGIN] Username =>  ['] Attempted to Login and failed.
+  [WARNING] [08.24.2022 15:29:54 Çarşamba] [LOGIN] Username =>  ['] Attempted to Login and failed.
+  [WARNING] [08.24.2022 15:30:32 Çarşamba] [LOGIN] Username =>  ["+Uname+"] Attempted to Login and failed.
+  [*] [08.25.2022 09:34:08 Perşembe] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.25.2022 09:34:23 Perşembe] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [WARNING] [08.25.2022 09:38:09 Perşembe] [ADMIN] Strange username =>  [alper] Attempted to Login and failed.
+  [*] [08.25.2022 09:38:12 Perşembe] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.25.2022 09:38:18 Perşembe] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.25.2022 09:38:39 Perşembe] [ADMIN] (Alper Beşli:alper) [ACTION] => [Added User] Fullname:[username1] Username :[username]
+  [*] [08.25.2022 09:38:50 Perşembe] [LOGIN] Fullname :[username1] User :[username]
+  [*] [08.25.2022 09:39:18 Perşembe] [CONSOLE] Fullname :[username1] User :[username] [ACTION] => CONSOLE => [IP][:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:database1 | TABLE:table1]
+  [*] [08.25.2022 09:39:42 Perşembe] [CONSOLE] Fullname :[username1] User :[username] [ACTION] => CONSOLE => [DOMAIN][:www.alperbesli.com] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.25.2022 09:40:34 Perşembe] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.25.2022 09:40:46 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.1.244.54/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.25.2022 09:41:08 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.1.244.54/24 | 10.1.244.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.25.2022 12:15:31 Perşembe] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.25.2022 12:15:43 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:portal.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.25.2022 12:16:02 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.25.2022 12:16:44 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.25.2022 12:16:47 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/24 | 10.6.50.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [08.25.2022 12:46:19 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/24 | 10.6.50.1/24 | ] [DB:ibdb | TABLE:ibdb24]
+  [*] [08.25.2022 13:52:32 Perşembe] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.25.2022 13:52:40 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:mainserver2.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.25.2022 13:53:07 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.4/ | IP
+ | ] [DB:Default | TABLE:Default]
+  [*] [08.26.2022 11:11:22 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 11:11:23 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 11:11:49 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 11:12:23 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:192.168.1.120/16 | 192.168.1.1/16 | ] [DB:db | TABLE:table]
+  [*] [08.26.2022 11:12:54 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 11:12:56 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 11:13:12 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 11:13:36 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:192.168.100.100/16 | 192.168.1.1/16 | ] [DB:aaa | TABLE:bbb]
+  [*] [08.26.2022 11:14:31 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.240.1.100/24 | 192.168.100.1/24 | ] [DB:aaaa | TABLE:bbbb]
+  [*] [08.26.2022 11:15:12 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:192.168.0.100/24 | 192.168.100.1/24 | ] [DB:aaaa | TABLE:bbbb]
+  [*] [08.26.2022 11:15:26 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 11:15:28 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 11:15:34 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 11:16:15 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.240.1.1/24 | 10.240.1.1/24 | ] [DB:DatabaseName | TABLE:DatabaseTable]
+  [*] [08.26.2022 11:18:39 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 11:18:40 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 11:18:50 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 11:19:13 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:abcdef | TABLE:abcd]
+  [*] [08.26.2022 11:23:25 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 11:23:26 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 11:23:31 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 11:23:45 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:1.1.1.1/24 | 1.1.1.1/24 | ] [DB:xcv | TABLE:vcx]
+  [*] [08.26.2022 16:03:46 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
+  [*] [08.26.2022 16:03:48 Cuma] [ADMIN] (Alper Beşli:alper)  [ACTION] => Opened the Log File
+  [*] [08.26.2022 16:04:13 Cuma] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.26.2022 16:04:24 Cuma] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:alperbesli.nicepage.io] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.27.2022 13:34:46 Cumartesi] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.27.2022 13:35:01 Cumartesi] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:alperbesli.com] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [08.27.2022 13:36:34 Cumartesi] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [08.27.2022 13:36:59 Cumartesi] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:90.100.1.1/24 | 90.100.1.1/24 | ] [DB:90.100.1.1.24 | TABLE:rand]
+  [*] [03.07.2023 22:50:18 Salı] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [03.07.2023 22:50:34 Salı] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:alperbesli.com] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [03.07.2023 22:50:55 Salı] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:8.8.8.8/24 | 8.8.8.1/24 | ] [DB:Default | TABLE:Default]
