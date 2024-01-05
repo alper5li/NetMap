@@ -55,7 +55,6 @@
   [*] [08.24.2022 14:27:45 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
   [*] [08.24.2022 14:34:53 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
   [*] [08.24.2022 14:35:41 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
-  [*] [08.24.2022 14:35:50 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:portal.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
   [*] [08.24.2022 14:38:35 Çarşamba] [LOGIN] Fullname :[Alper Beşli] User :[alper]
   [*] [08.24.2022 14:38:46 Çarşamba] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
  | ] [DB:Default | TABLE:Default]
@@ -101,7 +100,6 @@
  | ] [DB:Default | TABLE:Default]
   [*] [08.25.2022 09:41:08 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.1.244.54/24 | 10.1.244.1/24 | ] [DB:Default | TABLE:Default]
   [*] [08.25.2022 12:15:31 Perşembe] [LOGIN] Fullname :[Alper Beşli] User :[alper]
-  [*] [08.25.2022 12:15:43 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:portal.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
   [*] [08.25.2022 12:16:02 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
  | ] [DB:Default | TABLE:Default]
   [*] [08.25.2022 12:16:44 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/ | IP
@@ -109,7 +107,6 @@
   [*] [08.25.2022 12:16:47 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/24 | 10.6.50.1/24 | ] [DB:Default | TABLE:Default]
   [*] [08.25.2022 12:46:19 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.10/24 | 10.6.50.1/24 | ] [DB:ibdb | TABLE:ibdb24]
   [*] [08.25.2022 13:52:32 Perşembe] [LOGIN] Fullname :[Alper Beşli] User :[alper]
-  [*] [08.25.2022 13:52:40 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:mainserver2.ibb.gov.tr] [DB:DomainDB | TABLE: DomainSearch]
   [*] [08.25.2022 13:53:07 Perşembe] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:10.6.50.4/ | IP
  | ] [DB:Default | TABLE:Default]
   [*] [08.26.2022 11:11:22 Cuma] [ADMIN] (Alper Beşli:alper) [ACTION] => [LOGIN]
@@ -145,3 +142,6 @@
   [*] [03.07.2023 22:50:18 Salı] [LOGIN] Fullname :[Alper Beşli] User :[alper]
   [*] [03.07.2023 22:50:34 Salı] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:alperbesli.com] [DB:DomainDB | TABLE: DomainSearch]
   [*] [03.07.2023 22:50:55 Salı] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:8.8.8.8/24 | 8.8.8.1/24 | ] [DB:Default | TABLE:Default]
+  [*] [01/05/2024 20:37:52 Friday] [LOGIN] Fullname :[Alper Beşli] User :[alper]
+  [*] [01/05/2024 20:38:04 Friday] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [DOMAIN][:alperbesli.com] [DB:DomainDB | TABLE: DomainSearch]
+  [*] [01/05/2024 20:38:32 Friday] [CONSOLE] Fullname :[Alper Beşli] User :[alper] [ACTION] => CONSOLE => [IP][:111.12.12.12/16 | 111.12.1.1/16 | ] [DB:Default | TABLE:Default]
